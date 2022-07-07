@@ -10,5 +10,6 @@
 - Serverside Native.
 - Maximize data preprocessing performance.
 ## Screenshorts:
-![Screenshot (337)](https://user-images.githubusercontent.com/85990319/177767189-0077c75d-7129-42b6-8579-7b5051b5eb7e.png)
-![Screenshot (338)](https://user-images.githubusercontent.com/85990319/177767224-103e28fe-9884-431a-be91-2a3a36b7b31d.png)
+
+![Screenshot (339)](https://user-images.githubusercontent.com/85990319/177767744-f1224ba8-01d7-4b6c-93fb-692dcb5ab00c.png)
+![Screenshot (340)](https://user-images.githubusercontent.com/85990319/177767769-d7f1c0e9-58a8-4e63-bb8a-fd6f915bb5a7.png)
