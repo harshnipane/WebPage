@@ -8,4 +8,7 @@
 - It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 - Multimode Database.
 - Serverside Native.
-- Maximize data preprocessing performance
+- Maximize data preprocessing performance.
+## Screenshorts:
+![Screenshot (337)](https://user-images.githubusercontent.com/85990319/177767189-0077c75d-7129-42b6-8579-7b5051b5eb7e.png)
+![Screenshot (338)](https://user-images.githubusercontent.com/85990319/177767224-103e28fe-9884-431a-be91-2a3a36b7b31d.png)
